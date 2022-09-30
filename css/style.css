@@ -143,7 +143,7 @@ a:focus{
 first div in the grid  and place it in the grid. */
 .container div:first-child{
   grid-column: 1/-1;
-  background-image: url("..images/header.jpg");
+  background-image: url("../images/header.jpg");
   background-repeat: no-repeat;
 }
 
